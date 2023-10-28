@@ -1,9 +1,9 @@
-// Code Keypad Component Here
-
-function Keypad (){
+function Keypad() {
     return (
-        <div></div>
-    )
+        <div>
+
+        </div>
+    );
 }
 
 export default Keypad;
